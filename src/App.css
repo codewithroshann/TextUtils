@@ -1,0 +1,7 @@
+body{
+  transition: all 0.2s ease-in-out;
+}
+.form-switch{
+  margin: auto !important;
+  margin-left: 10px !important;
+}
